@@ -1,6 +1,6 @@
 # VProfile
 
-In this project I will be documenting the process of deploying a multi tier wb application stack. This will be setup locally.
+In this project I will be documenting the process of deploying a multi tier web application stack. This will be setup locally.
 
 
 
